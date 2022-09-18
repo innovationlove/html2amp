@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/tomoyukikashiro/html2amp#readme",
   "dependencies": {
-    "@ampproject/toolbox-optimizer": "^2.3.0",
+    "@ampproject/toolbox-optimizer": "3.0.0-canary.2",
     "axios": "^0.27.0",
     "cheerio": "^1.0.0-rc.2",
     "clean-css": "^5.0.0",
